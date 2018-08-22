@@ -1,0 +1,40 @@
+body 
+{
+    background-image: url("https://images.wallpapersden.com/image/download/anime-minimalism_58558_3840x1920.jpg");
+    background-size: 1800px
+}
+
+h1
+{
+    color:rgb(236, 233, 29);
+    font-size: 35pt;
+    font-family: 'Courier New', Courier, monospace'
+    border: 5px;
+}
+
+h2
+{
+    color: rgb(236, 233, 29);
+    font-size:20pt
+    border:5px
+}
+h3
+{
+    color: rgb(236, 233, 29);
+    font-size:20pt
+    border:5px
+}
+ul{
+    color: rgb(236, 233, 29);
+    font-family: 'Courier New', Courier, monospace'
+}
+h2 {
+	border-width: 3px;
+	border-color: rgb(236, 233, 29);
+	border-style: solid;
+}
+p
+{
+    font-size: 13pt;
+    border-color: rgb(236, 105, 29); 
+}
